@@ -52,10 +52,13 @@ line 28:  "module": "NodeNext",
 line 30:  "moduleResolution": "NodeNext"
 if using json files then uncomment the following line
 line 42:  "resolveJsonModule": true,
+to add dist folder to save js file go need to add path in tsconfig.json:
+line 58: "outDir": "./dist", // Specify an output folder for all emitted files. 
 
-in package.json add the following under name:
+8. in package.json add the following under name:
 in line 3: "type": "module",
-8. make .gitignore file and write in it: 
+9. make .gitignore file and write in it: 
  node_modules
+
 
  */
