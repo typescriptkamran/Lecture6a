@@ -1,33 +1,12 @@
-import a from "./data/data1.js"
-import {b, c, sum} from "./data/data1.js"
-import {num1, num2, students} from "./data/data2.js"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/*  
+export {};
+/*
 Steps to star node project with typescript:
 1. install node js 18.17.1 LTS  version from https://nodejs.org/en
-2. to install typesript from command prompt run: 
+2. to install typesript from command prompt run:
 install npm install -g typescript
 3. open new folder with vs code editor
 Make a file index.ts
-4. to initialize the project with typescript: 
+4. to initialize the project with typescript:
 tsc --init
 tsc
 5. Make it a Node.js project by giving the following command:
@@ -48,7 +27,7 @@ line 42:  "resolveJsonModule": true,
 
 in package.json add the following under name:
 in line 3: "type": "module",
-8. make .gitignore file and write in it: 
+8. make .gitignore file and write in it:
  node_modules
 
- */
+ */ 
