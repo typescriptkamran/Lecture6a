@@ -1,4 +1,6 @@
-export {};
+import { num1, students } from "./data/data2.js";
+console.log("🚀 ~ file: index.ts:4 ~ students:", students);
+console.log("🚀 ~ file: index.ts:4 ~ num1:", num1);
 /*
 Steps to star node project with typescript:
 1. install node js 18.17.1 LTS  version from https://nodejs.org/en

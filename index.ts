@@ -3,6 +3,13 @@ import {b, c, sum} from "./data/data1.js"
 import {num1, num2, students} from "./data/data2.js"
 
 
+console.log("🚀 ~ file: index.ts:4 ~ students:", students)
+console.log("🚀 ~ file: index.ts:4 ~ num1:", num1)
+
+
+
+
+
 
 
 
